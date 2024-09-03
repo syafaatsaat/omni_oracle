@@ -1,0 +1,250 @@
+﻿1. The Shawshank Redemption
+2. The Godfather
+3. The Dark Knight
+4. The Godfather Part II
+5. 12 Angry Men
+6. Schindler's List
+7. The Lord of the Rings: The Return of the King
+8. Pulp Fiction
+9. The Lord of the Rings: The Fellowship of the Ring
+10. The Good, the Bad and the Ugly
+11. Forrest Gump
+12. The Lord of the Rings: The Two Towers
+13. Fight Club
+14. Inception
+15. Star Wars: Episode V - The Empire Strikes Back
+16. The Matrix
+17. Goodfellas
+18. One Flew Over the Cuckoo's Nest
+19. Interstellar
+20. Se7en
+21. It's a Wonderful Life
+22. Seven Samurai
+23. The Silence of the Lambs
+24. Saving Private Ryan
+25. City of God
+26. Life Is Beautiful
+27. The Green Mile
+28. Terminator 2: Judgment Day
+29. Star Wars: Episode IV - A New Hope
+30. Back to the Future
+31. Spirited Away
+32. The Pianist
+33. Parasite
+34. Psycho
+35. Gladiator
+36. The Lion King
+37. Spider-Man: Across the Spider-Verse
+38. The Departed
+39. Léon: The Professional
+40. Whiplash
+41. American History X
+42. Dune: Part Two
+43. The Prestige
+44. Grave of the Fireflies
+45. Harakiri
+46. The Usual Suspects
+47. Casablanca
+48. The Intouchables
+49. Cinema Paradiso
+50. Modern Times
+51. Rear Window
+52. Alien
+53. Once Upon a Time in the West
+54. City Lights
+55. Django Unchained
+56. Apocalypse Now
+57. Memento
+58. WALL·E
+59. Raiders of the Lost Ark
+60. 12th Fail
+61. The Lives of Others
+62. Sunset Boulevard
+63. Avengers: Infinity War
+64. Paths of Glory
+65. Spider-Man: Into the Spider-Verse
+66. Witness for the Prosecution
+67. The Shining
+68. The Great Dictator
+69. Aliens
+70. Inglourious Basterds
+71. The Dark Knight Rises
+72. Coco
+73. Amadeus
+74. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+75. Oldboy
+76. Toy Story
+77. American Beauty
+78. Avengers: Endgame
+79. Braveheart
+80. Das Boot
+81. Good Will Hunting
+82. Princess Mononoke
+83. Joker
+84. Your Name.
+85. High and Low
+86. 3 Idiots
+87. Once Upon a Time in America
+88. Singin' in the Rain
+89. Capernaum
+90. Come and See
+91. Requiem for a Dream
+92. Toy Story 3
+93. Star Wars: Episode VI - Return of the Jedi
+94. Eternal Sunshine of the Spotless Mind
+95. The Hunt
+96. 2001: A Space Odyssey
+97. Ikiru
+98. Reservoir Dogs
+99. Lawrence of Arabia
+100. The Apartment
+101. Incendies
+102. Oppenheimer
+103. North by Northwest
+104. Scarface
+105. Citizen Kane
+106. Double Indemnity
+107. M
+108. Vertigo
+109. Full Metal Jacket
+110. Amélie
+111. Heat
+112. Up
+113. A Clockwork Orange
+114. To Kill a Mockingbird
+115. A Separation
+116. The Sting
+117. Die Hard
+118. Indiana Jones and the Last Crusade
+119. Like Stars on Earth
+120. Metropolis
+121. Snatch
+122. 1917
+123. L.A. Confidential
+124. Bicycle Thieves
+125. Hamilton
+126. Taxi Driver
+127. Downfall
+128. Dangal
+129. Batman Begins
+130. For a Few Dollars More
+131. The Wolf of Wall Street
+132. Green Book
+133. Some Like It Hot
+134. The Kid
+135. The Father
+136. Judgment at Nuremberg
+137. The Truman Show
+138. All About Eve
+139. Shutter Island
+140. There Will Be Blood
+141. Top Gun: Maverick
+142. Jurassic Park
+143. Casino
+144. Ran
+145. The Sixth Sense
+146. Pan's Labyrinth
+147. Unforgiven
+148. No Country for Old Men
+149. The Thing
+150. A Beautiful Mind
+151. Kill Bill: Vol. 1
+152. The Treasure of the Sierra Madre
+153. Yojimbo
+154. The Great Escape
+155. Monty Python and the Holy Grail
+156. Finding Nemo
+157. Prisoners
+158. Howl's Moving Castle
+159. Rashomon
+160. The Elephant Man
+161. Dial M for Murder
+162. Chinatown
+163. Gone with the Wind
+164. Lock, Stock and Two Smoking Barrels
+165. V for Vendetta
+166. The Secret in Their Eyes
+167. Inside Out
+168. Raging Bull
+169. Three Billboards Outside Ebbing, Missouri
+170. Trainspotting
+171. The Bridge on the River Kwai
+172. Klaus
+173. Catch Me If You Can
+174. Fargo
+175. Warrior
+176. Spider-Man: No Way Home
+177. Gran Torino
+178. Harry Potter and the Deathly Hallows: Part 2
+179. Million Dollar Baby
+180. My Neighbor Totoro
+181. Mad Max: Fury Road
+182. Children of Heaven
+183. 12 Years a Slave
+184. Ben-Hur
+185. Before Sunrise
+186. Barry Lyndon
+187. Blade Runner
+188. The Grand Budapest Hotel
+189. Hacksaw Ridge
+190. Gone Girl
+191. Dead Poets Society
+192. Memories of Murder
+193. In the Name of the Father
+194. The Gold Rush
+195. Monsters, Inc.
+196. Wild Tales
+197. The Deer Hunter
+198. The General
+199. Jaws
+200. On the Waterfront
+201. Sherlock Jr.
+202. How to Train Your Dragon
+203. Ratatouille
+204. Mary and Max
+205. The Third Man
+206. The Wages of Fear
+207. Wild Strawberries
+208. Ford v Ferrari
+209. Mr. Smith Goes to Washington
+210. Maharaja
+211. Tokyo Story
+212. Logan
+213. Rocky
+214. The Big Lebowski
+215. The Seventh Seal
+216. Room
+217. Spotlight
+218. The Terminator
+219. Hotel Rwanda
+220. Platoon
+221. La haine
+222. Before Sunset
+223. Pirates of the Caribbean: The Curse of the Black Pearl
+224. Jai Bhim
+225. The Passion of Joan of Arc
+226. The Best Years of Our Lives
+227. The Exorcist
+228. Rush
+229. Network
+230. The Wizard of Oz
+231. The Incredibles
+232. Stand by Me
+233. Hachi: A Dog's Tale
+234. The Sound of Music
+235. The Handmaiden
+236. My Father and My Son
+237. To Be or Not to Be
+238. Into the Wild
+239. The Battle of Algiers
+240. Groundhog Day
+241. The Grapes of Wrath
+242. The Iron Giant
+243. Amores Perros
+244. Rebecca
+245. Cool Hand Luke
+246. The Help
+247. It Happened One Night
+248. Aladdin
+249. Paris, Texas
+250. Gangs of Wasseypur
