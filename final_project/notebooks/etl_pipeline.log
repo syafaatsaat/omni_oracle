@@ -1,0 +1,77 @@
+2024-09-11 21:54:45,128:INFO:ETL process started.
+2024-09-11 21:54:50,520:INFO:Geolocation data loaded successfully.
+2024-09-11 21:59:32,167:INFO:Customer data loaded successfully.
+2024-09-11 22:05:38,393:INFO:Cleaned geolocation data and exported to ../resources/cleaned_geolocation_dataset.csv.
+2024-09-11 22:09:26,658:INFO:Cleaned customer data and exported to ../resources/cleaned_customer_dataset.csv.
+2024-09-11 22:10:32,275:INFO:Cleaned seller data and exported to ../resources/cleaned_seller_dataset.csv.
+2024-09-12 11:20:08,280:INFO:ETL process started.
+2024-09-12 11:22:33,705:INFO:Geolocation data loaded successfully.
+2024-09-12 11:22:48,669:INFO:Geolocation data loaded successfully.
+2024-09-12 11:22:59,308:INFO:Customer data loaded successfully.
+2024-09-12 11:23:20,010:INFO:Seller data loaded successfully.
+2024-09-12 11:23:36,445:INFO:Order data loaded successfully.
+2024-09-12 11:23:49,028:INFO:Product category data loaded successfully.
+2024-09-12 11:24:21,650:INFO:Product data loaded successfully.
+2024-09-12 11:24:38,590:INFO:Order review data loaded successfully.
+2024-09-12 11:24:48,730:INFO:Order item data loaded successfully.
+2024-09-12 11:24:59,702:INFO:Order payment data loaded successfully.
+2024-09-12 11:25:03,060:INFO:Extraction process completed.
+2024-09-12 11:26:15,105:INFO:Cleaned product data and exported to ../resources/cleaned_product_categories_dataset.csv.
+2024-09-12 11:29:20,555:INFO:Product category data loaded successfully.
+2024-09-12 11:29:39,058:INFO:Cleaned product data and exported to ../resources/cleaned_product_categories_dataset.csv.
+2024-09-12 11:32:14,073:INFO:Product category data loaded successfully.
+2024-09-12 11:32:27,433:INFO:Cleaned product data and exported to ../resources/cleaned_product_categories_dataset.csv.
+2024-09-12 11:32:47,248:INFO:Product category data loaded successfully.
+2024-09-12 11:33:03,074:INFO:Cleaned product data and exported to ../resources/cleaned_product_categories_dataset.csv.
+2024-09-12 11:35:53,907:INFO:Product category data loaded successfully.
+2024-09-12 11:41:11,931:INFO:Cleaned product data and exported to ../resources/cleaned_product_categories_dataset.csv.
+2024-09-12 11:49:32,537:INFO:Product category data loaded successfully.
+2024-09-12 11:49:43,420:INFO:Cleaned product data and exported to ../resources/cleaned_product_categories_dataset.csv.
+2024-09-12 11:53:02,204:INFO:Cleaned product data and exported to ../resources/cleaned_product_dataset.csv.
+2024-09-12 14:51:14,090:INFO:Cleaned geolocation data and exported to ../resources/cleaned_geolocation_dataset.csv.
+2024-09-12 15:58:05,740:INFO:Geolocation data loaded successfully.
+2024-09-12 16:00:57,509:INFO:Cleaned geolocation data and exported to ../resources/cleaned_geolocation_dataset.csv.
+2024-09-12 16:09:27,200:INFO:Cleaned customer data and exported to ../resources/cleaned_customer_dataset.csv.
+2024-09-12 16:11:45,054:INFO:Cleaned seller data and exported to ../resources/cleaned_seller_dataset.csv.
+2024-09-12 16:14:14,487:INFO:Cleaned order data and exported to ../resources/cleaned_order_dataset.csv.
+2024-09-12 16:14:26,154:INFO:Cleaned order review data and exported to ../resources/cleaned_order_reviews_dataset.csv.
+2024-09-12 16:14:34,091:INFO:Cleaned order item data and exported to ../resources/cleaned_order_items_dataset.csv.
+2024-09-12 16:14:37,357:INFO:Cleaned order payment data and exported to ../resources/cleaned_order_payments_dataset.csv.
+2024-09-12 16:14:42,005:INFO:Transformation process completed.
+2024-09-12 16:14:45,502:INFO:Created database: omni_oracle_ecommerce_db
+2024-09-12 16:14:49,762:INFO:Created tables in database.
+2024-09-12 16:17:41,425:INFO:Loaded geolocations into database.
+2024-09-12 16:18:19,512:INFO:Loaded customers into database.
+2024-09-12 16:18:54,965:INFO:Loaded sellers into database.
+2024-09-12 16:57:37,603:INFO:ETL process started.
+2024-09-12 16:57:41,420:INFO:Geolocation data loaded successfully.
+2024-09-12 16:57:44,321:INFO:Customer data loaded successfully.
+2024-09-12 16:57:49,008:INFO:Seller data loaded successfully.
+2024-09-12 16:57:53,786:INFO:Order data loaded successfully.
+2024-09-12 16:57:56,070:INFO:Product category data loaded successfully.
+2024-09-12 16:57:59,341:INFO:Product data loaded successfully.
+2024-09-12 16:58:03,121:INFO:Order review data loaded successfully.
+2024-09-12 16:58:05,639:INFO:Order item data loaded successfully.
+2024-09-12 16:58:07,800:INFO:Order payment data loaded successfully.
+2024-09-12 16:58:10,157:INFO:Extraction process completed.
+2024-09-12 16:58:46,105:INFO:Cleaned geolocation data and exported to ../resources/cleaned_geolocation_dataset.csv.
+2024-09-12 16:59:03,283:INFO:Cleaned customer data and exported to ../resources/cleaned_customer_dataset.csv.
+2024-09-12 16:59:11,095:INFO:Cleaned seller data and exported to ../resources/cleaned_seller_dataset.csv.
+2024-09-12 16:59:15,565:INFO:Cleaned order data and exported to ../resources/cleaned_order_dataset.csv.
+2024-09-12 16:59:21,149:INFO:Cleaned product data and exported to ../resources/cleaned_product_categories_dataset.csv.
+2024-09-12 16:59:24,851:INFO:Cleaned product data and exported to ../resources/cleaned_product_dataset.csv.
+2024-09-12 16:59:30,328:INFO:Cleaned order review data and exported to ../resources/cleaned_order_reviews_dataset.csv.
+2024-09-12 16:59:39,272:INFO:Cleaned order item data and exported to ../resources/cleaned_order_items_dataset.csv.
+2024-09-12 17:00:03,850:INFO:Cleaned order payment data and exported to ../resources/cleaned_order_payments_dataset.csv.
+2024-09-12 17:00:05,921:INFO:Transformation process completed.
+2024-09-12 17:00:08,894:INFO:Created database: omni_oracle_ecommerce_db
+2024-09-12 17:00:10,944:INFO:Created tables in database.
+2024-09-12 17:00:17,996:INFO:Loaded geolocations into database.
+2024-09-12 17:00:23,331:INFO:Loaded customers into database.
+2024-09-12 17:00:25,252:INFO:Loaded sellers into database.
+2024-09-12 17:00:35,201:INFO:Loaded orders into database.
+2024-09-12 17:00:38,956:INFO:Loaded product_category_name_translations into database.
+2024-09-12 17:00:42,845:INFO:Loaded products into database.
+2024-09-12 17:00:49,844:INFO:Loaded order_reviews into database.
+2024-09-12 17:01:00,538:INFO:Loaded order_items into database.
+2024-09-12 17:01:07,610:INFO:Loaded order_payments into database.
