@@ -115,3 +115,40 @@
 2024-09-17 12:17:20,763:INFO:Cleaned order payment data and exported to ../resources/cleaned_order_payments_dataset.csv.
 2024-09-17 12:19:17,797:INFO:Transformation process completed.
 2024-09-17 12:22:52,380:INFO:omni_oracle_ecommerce_db already exists.
+2024-09-17 15:56:01,240:INFO:ETL process started.
+2024-09-17 15:56:06,839:INFO:Data files already exists.
+2024-09-17 15:56:09,322:INFO:Extraction process completed.
+2024-09-17 15:56:13,126:INFO:Geolocation data loaded successfully.
+2024-09-17 15:57:09,087:INFO:Cleaned geolocation data and exported to ../resources/cleaned_geolocation_dataset.csv.
+2024-09-17 15:57:33,120:INFO:Customer data loaded successfully.
+2024-09-17 15:58:19,046:INFO:Cleaned customer data and exported to ../resources/cleaned_customer_dataset.csv.
+2024-09-17 15:58:37,298:INFO:Seller data loaded successfully.
+2024-09-17 15:59:06,512:INFO:Cleaned seller data and exported to ../resources/cleaned_seller_dataset.csv.
+2024-09-17 15:59:20,458:INFO:Order data loaded successfully.
+2024-09-17 15:59:20,487:WARNING:Detected columns with NA values: order_approved_at, order_delivered_carrier_date, order_delivered_customer_date
+2024-09-17 15:59:49,877:INFO:Cleaned order data and exported to ../resources/cleaned_order_dataset.csv.
+2024-09-17 16:00:01,431:INFO:Product category data loaded successfully.
+2024-09-17 16:02:12,288:INFO:Cleaned product data and exported to ../resources/cleaned_product_categories_dataset.csv.
+2024-09-17 16:02:39,254:INFO:Product data loaded successfully.
+2024-09-17 16:02:39,258:WARNING:Detected columns with NA values: product_category_name, product_name_lenght, product_description_lenght, product_photos_qty, product_weight_g, product_length_cm, product_height_cm, product_width_cm
+2024-09-17 16:03:12,301:INFO:Cleaned product data and exported to ../resources/cleaned_product_dataset.csv.
+2024-09-17 16:03:39,463:INFO:Order review data loaded successfully.
+2024-09-17 16:03:39,482:WARNING:Detected columns with NA values: review_comment_title, review_comment_message
+2024-09-17 16:04:06,064:INFO:Cleaned order review data and exported to ../resources/cleaned_order_reviews_dataset.csv.
+2024-09-17 16:04:57,947:INFO:Order item data loaded successfully.
+2024-09-17 16:05:40,680:INFO:Cleaned order item data and exported to ../resources/cleaned_order_items_dataset.csv.
+2024-09-17 16:06:01,044:INFO:Order payment data loaded successfully.
+2024-09-17 16:06:22,540:INFO:Cleaned order payment data and exported to ../resources/cleaned_order_payments_dataset.csv.
+2024-09-17 16:06:42,784:INFO:Transformation process completed.
+2024-09-17 16:06:46,067:INFO:Created database: omni_oracle_ecommerce_db
+2024-09-17 16:06:56,011:INFO:Connected to the database 'omni_oracle_ecommerce_db'.
+2024-09-17 16:13:44,657:INFO:Loaded geolocations into database.
+2024-09-17 16:14:07,720:INFO:Loaded customers into database.
+2024-09-17 16:14:13,120:INFO:Loaded sellers into database.
+2024-09-17 16:15:11,574:INFO:Loaded orders into database.
+2024-09-17 16:15:20,932:INFO:Loaded product_category_name_translations into database.
+2024-09-17 16:15:34,462:INFO:Loaded products into database.
+2024-09-17 16:15:48,736:INFO:Loaded order_reviews into database.
+2024-09-17 16:16:05,972:INFO:Loaded order_items into database.
+2024-09-17 16:16:19,379:INFO:Loaded order_payments into database.
+2024-09-17 16:21:24,969:INFO:Loading process completed.
