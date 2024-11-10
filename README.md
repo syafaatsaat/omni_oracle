@@ -11,13 +11,6 @@ This was the first project done during the bootcamp. We were assigned to explore
 
 We based our data on the top 250 movies listed on the IMDb website (https://www.imdb.com/chart/top/?ref_=nv_mv_250) and sourced out more data from the OMDb (https://www.omdbapi.com/) and TMDB (https://www.themoviedb.org/) websites. The data is transformed using Python and some open-source libraries in Jupyter Notebook. Lastly, we stored the data in PostgreSQL where we designed the database schema, tables and entity-relationship models.
 
-### Development Stages
-1. Web Crawler to scrape data from IMDb website
-2. API requests from OMDb and TMDB
-3. Data Transformation
-4. Loading data into PostgreSQL using SQLAlchemy
-5. Make queries to learn about the data
-
 ## Olist Store (Brazilian E-Commerce) Data Pipeline
 
 ![olist|100](https://syafaatsaat.github.io/portfolio/assets/images/olist.jpg)
@@ -26,6 +19,10 @@ This was the second project done during the bootcamp. We were assigned to formul
 
 The data that we are working with is the Olist Store which is a Brazilian online marketplace, which is sourced from the Kaggle website (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
-### Development Stages
-1. Store data inside local PostgreSQL database
-2. 
+### Cloud Services used:
+1. Azure Data Factory
+2. Azure Data Lake Storage
+3. Azure Databricks
+4. Azure Synapse Analytics
+5. PowerBI
+6. Azure Key Storage
